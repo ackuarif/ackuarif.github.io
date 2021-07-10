@@ -1,0 +1,74 @@
+{
+  "name": "AKA Resto",
+  "gcm_sender_id": "489407451958",
+  "short_name": "AKA Resto",
+  "description": "AKA Resto adalah aplikasi seputar restoran",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#2c3e50",
+  "theme_color": "#2c3e50",
+  "icons": [
+    {
+      "src": "./images/icons/android-launchericon-512-512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "./images/icons/android-launchericon-192-192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./images/icons/android-launchericon-144-144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "./images/icons/android-launchericon-96-96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./images/icons/android-launchericon-72-72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "./images/icons/android-launchericon-48-48.png",
+      "sizes": "48x48"
+    }
+  ],
+  "defaultVendors~favorite~index~restaurant~d939e436.js": "/defaultVendors~favorite~index~restaurant~d939e436.js",
+  "default~favorite~index~restaurant~7ac5d858.js": "/default~favorite~index~restaurant~7ac5d858.js",
+  "defaultVendors~favorite~index~80d50bd5.js": "/defaultVendors~favorite~index~80d50bd5.js",
+  "default~favorite~restaurant~31ecd969.js": "/default~favorite~restaurant~31ecd969.js",
+  "favorite~7ac5d858.js": "/favorite~7ac5d858.js",
+  "index~7ac5d858.js": "/index~7ac5d858.js",
+  "restaurant~7ac5d858.js": "/restaurant~7ac5d858.js",
+  "components/card-item.js": "/components/card-item.js",
+  "components/detail-item.js": "/components/detail-item.js",
+  "components/fav-button.js": "/components/fav-button.js",
+  "components/footer-item.js": "/components/footer-item.js",
+  "components/header-item.js": "/components/header-item.js",
+  "components/hero-item.js": "/components/hero-item.js",
+  "components/menu-item.js": "/components/menu-item.js",
+  "favicon.ico": "/favicon.ico",
+  "favorite.html": "/favorite.html",
+  "images/favicon.ico": "/images/favicon.ico",
+  "images/icons.json": "/images/icons.json",
+  "images/icons/android-launchericon-144-144.png": "/images/icons/android-launchericon-144-144.png",
+  "images/icons/android-launchericon-192-192.png": "/images/icons/android-launchericon-192-192.png",
+  "images/icons/android-launchericon-48-48.png": "/images/icons/android-launchericon-48-48.png",
+  "images/icons/android-launchericon-512-512.png": "/images/icons/android-launchericon-512-512.png",
+  "images/icons/android-launchericon-72-72.png": "/images/icons/android-launchericon-72-72.png",
+  "images/icons/android-launchericon-96-96.png": "/images/icons/android-launchericon-96-96.png",
+  "index.html": "/index.html",
+  "restaurant.html": "/restaurant.html",
+  "scripts/env.js": "/scripts/env.js",
+  "scripts/favorite.js": "/scripts/favorite.js",
+  "scripts/index.js": "/scripts/index.js",
+  "scripts/myIdb.js": "/scripts/myIdb.js",
+  "scripts/reg-pwa.js": "/scripts/reg-pwa.js",
+  "scripts/restaurant.js": "/scripts/restaurant.js",
+  "styles/main.css": "/styles/main.css",
+  "styles/responsive.css": "/styles/responsive.css",
+  "sw.js": "/sw.js",
+  "templates/favorite.html": "/templates/favorite.html",
+  "templates/index.html": "/templates/index.html",
+  "templates/restaurant.html": "/templates/restaurant.html"
+}
